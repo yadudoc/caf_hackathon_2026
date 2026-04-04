@@ -11,4 +11,7 @@ dependencies = [
     "academy-py==0.4.0",
     "matplotlib",
     "ipykernel",
+    "langchain-openai>=1.1.7",
+    "langgraph>=1.0.7",
+    "langchain>=1.2.8",
 ]
